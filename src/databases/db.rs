@@ -3,6 +3,6 @@ pub struct DB{
 }
 impl DB{
     pub fn url() -> Self{
-        DB {url:"postgres://postgres:Meeci50026@localhost:5432/postgres"}
+        DB {url:"postgres://postgres:Meeci500000@localhost:5432/postgres"}
     }
 }
